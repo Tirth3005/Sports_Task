@@ -1,0 +1,10 @@
+@isTest
+public class AccountControllerTest {
+    @TestSetup
+    static void createAccount(){
+    //all Initial DML operation here
+    }
+     @isTest
+    static void TestMethod1(){
+    //coverage code
+    }
